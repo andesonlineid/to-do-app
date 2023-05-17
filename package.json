@@ -1,0 +1,22 @@
+{
+  "type": "module",
+  "name": "to-do-app",
+  "version": "1.0.0",
+  "description": "to do application",
+ 
+  "main": "index.js",
+
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andesonlineid/to-do-apps.git"
+  },
+  "author": "andes online",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andesonlineid/to-do-apps/issues"
+  },
+  "homepage": "https://github.com/andesonlineid/to-do-apps#readme"
+}
